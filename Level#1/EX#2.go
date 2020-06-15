@@ -1,5 +1,5 @@
 package main
-// Link: https://www.youtube.com/watch?v=Q7ZrIDMj9zc&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=18
+// Package level scope
 
 import (
 	"fmt"
