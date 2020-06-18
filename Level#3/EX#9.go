@@ -12,6 +12,7 @@ func main() {
 		case "soccer": fmt.Println("Not")
 		case "football": fmt.Println("Not")
 		case "e-Sports": fmt.Println("Not")
+		case "handball": fmt.Println("Not")
 		default: fmt.Println("It's basketball")
 	}
 }
