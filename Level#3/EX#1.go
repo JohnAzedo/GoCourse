@@ -1,6 +1,5 @@
 package main
 // Put on screen the number from 1 to 10000
-
 import (
 	"fmt"
 )
