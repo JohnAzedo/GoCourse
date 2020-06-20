@@ -5,10 +5,11 @@ import(
 )
 
 func main() {
-	factorial(5)
+	fmt.Println(factorial(4))
 }
 
-func factorial(int number) int{
+func factorial(number int) int{
+	
 	if number == 1 {
 		return number
 	}else{
