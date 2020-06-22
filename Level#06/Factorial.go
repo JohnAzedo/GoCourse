@@ -10,7 +10,7 @@ func main() {
 
 func factorial(number int) int{
 	
-	if number == 1 {
+	if number == 0 {
 		return number
 	}else{
 		return number * factorial(number-1)
