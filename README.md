@@ -63,3 +63,20 @@ Author: [Ellen Körbes](https://github.com/ellenkorbes)
 | EX#2 | Using map with structs |
 | EX#3 | Built-in struct |
 | EX#4 | Anonymous struct |
+
+## Level 06
+
+| Exercises | Content |
+|-----|-----|
+| EX#01 | Many returns in function |
+| EX#02 | Fuction with many parameters |
+| EX#03 | Using defer |
+| EX#04 | Using strung methods |
+| EX#05 | Using interfaces and strucs |
+| EX#06 | Anonymous function |
+| EX#07 | Put a funtion in a variable |
+| EX#08 | Func return function |
+| EX#09 | Callbacks |
+| EX#10 | Closers to fuctions scope |
+| Books | Extra |
+| Factorial | Extra |
