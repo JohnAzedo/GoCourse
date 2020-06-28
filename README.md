@@ -85,8 +85,8 @@ Author: [Ellen Körbes](https://github.com/ellenkorbes)
 
 | Exercises | Content |
 |-----|-----|
-| EX#1 | Pointers |
-| EX#2 | Pointers with struct |
+| EX#1 | Using Pointers |
+| EX#2 | Using Pointers with struct |
 | Slice | Extra |
 
 ## Level 08
