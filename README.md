@@ -80,3 +80,21 @@ Author: [Ellen Körbes](https://github.com/ellenkorbes)
 | EX#10 | Closers to fuctions scope |
 | Books | Extra |
 | Factorial | Extra |
+
+## Level 07
+
+| Exercises | Content |
+|-----|-----|
+| EX#1 | Pointers |
+| EX#2 | Pointers with struct |
+| Slice | Extra |
+
+## Level 08
+
+| Exercises | Content |
+|-----|-----|
+| EX#1 | Using Marshal to encode users in JSON |
+| EX#2 | Using UnMarshal |
+| EX#3 | Using Encode  |
+| EX#4 | Using sort algorithm |
+| EX#5 | Customizing sort algorithm |
